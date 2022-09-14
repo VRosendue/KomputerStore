@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to right, rgb(145, 183, 206), #EA738DFF);
+}
+
+title {
+  z-index: 1;
+  margin-top: 500%;
+}
